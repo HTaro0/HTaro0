@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Soy Mario Cristóbal Nicolás Díaz San Martín, estudiante de Ciencias Físicas en la Universidad de Concepción desde 2023 y actualmente en cuarto semestre.
 <!--
 **HTaro0/HTaro0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
